@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp2everything-mcp2tavily-badge.png)](https://mseep.ai/app/mcp2everything-mcp2tavily)
+
 # MCP2Tavily
 
 A MCP protocol server that implements web search functionality using the Tavily API.
